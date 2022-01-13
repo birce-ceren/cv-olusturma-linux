@@ -1,4 +1,7 @@
 # Linux Kabuk Programlama CV Oluşturma
+
+Birce Ceren Pınar - 18360859015
+
 ## Proje Amacı
 Projemin genel amacı linux bash scriptlerini kullanarak bir cv yaratıp bunu html formatında tema seçeneğiyle sunmaktadır.
 
